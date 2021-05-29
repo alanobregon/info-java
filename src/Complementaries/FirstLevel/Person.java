@@ -2,6 +2,16 @@ package Complementaries.FirstLevel;
 
 import java.util.Scanner;
 
+/**
+ * Crear una aplicación que solicite de entrada los datos de una persona en este orden:
+ * Nombre y Apellido
+ * Edad
+ * Dirección
+ * Ciudad
+ *
+ * Luego imprimirá el siguiente mensaje:
+ * {Ciudad} - {Dirección} - {Edad} - {Nombre y Apellido}
+ */
 public class Person {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);

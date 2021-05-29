@@ -2,6 +2,11 @@ package Complementaries.FirstLevel;
 
 import java.util.Scanner;
 
+/**
+ * Dado un String de entrada (frase, texto, etc)
+ * calcular la cantidad de veces que aparece una
+ * letra dada.
+ */
 public class LetterCount {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
