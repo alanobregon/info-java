@@ -20,6 +20,7 @@ public class Secuence {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Ingrese un numero: ");
         int n = scanner.nextInt();
+        scanner.close();
 
         for (int i = 1; i <= n; i++) {
             for (int j = 1; j <= i; j++) {

@@ -27,6 +27,7 @@ public class Person {
 
         System.out.print("Ingrese su ciudad: ");
         String city = scanner.nextLine();
+        scanner.close();
 
         Data data = new Data(fullname, age, address, city);
         System.out.println(data);

@@ -16,6 +16,7 @@ public class LetterCount {
 
         System.out.print("Ingrese la letra para contar: ");
         char letter = scanner.nextLine().charAt(0);
+        scanner.close();
 
         int count = 0;
         for (int i = 0; i < text.length(); i++) {

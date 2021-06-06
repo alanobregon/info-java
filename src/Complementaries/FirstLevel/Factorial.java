@@ -13,6 +13,7 @@ public class Factorial {
         System.out.print("Ingrese un numero: ");
         int number = scanner.nextInt();
         int fac = 1;
+        scanner.close();
 
         for (int i = 1; i <= number; i++) {
             fac *= i;

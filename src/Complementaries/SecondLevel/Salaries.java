@@ -25,6 +25,7 @@ public class Salaries {
             System.out.print("Ingrese el precio por hora trabajada: ");
             pricePerHour.add(scanner.nextInt());
         }
+        scanner.close();
 
         ArrayList<Integer> totalPrices = new ArrayList<>();
         for (int i = 0; i < 5; i++) {

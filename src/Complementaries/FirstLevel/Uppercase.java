@@ -11,6 +11,7 @@ public class Uppercase {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         String text = scanner.nextLine();
+        scanner.close();
         char letter;
 
         for (int i = 0; i < text.length(); i++) {

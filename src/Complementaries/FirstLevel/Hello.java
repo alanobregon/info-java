@@ -12,6 +12,7 @@ public class Hello {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Ingrese su nombre: ");
         String name = scanner.nextLine();
+        scanner.close();
 
         System.out.println("Hola " + name);
     }

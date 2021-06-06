@@ -29,6 +29,7 @@ public class Cities {
                     break;
             }
         } while (again);
+        scanner.close();
 
         System.out.println("Sus ciudades favoritas son: ");
         for (int i = 0; i < favourite.size(); i++) {

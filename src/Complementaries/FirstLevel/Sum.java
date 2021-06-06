@@ -16,6 +16,7 @@ public class Sum {
 
         System.out.print("Ingrese la cantidad de veces: ");
         int b = scanner.nextInt();
+        scanner.close();
 
         int res = 0;
         for (int i = 0; i < b; i++) {

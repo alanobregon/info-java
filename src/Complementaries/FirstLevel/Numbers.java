@@ -11,6 +11,7 @@ public class Numbers {
 
         System.out.print("Ingrese otro numero: ");
         int b = scanner.nextInt();
+        scanner.close();
 
         System.out.println("Suma: " + (a+b));
         System.out.println("Resta: " + (a-b));
