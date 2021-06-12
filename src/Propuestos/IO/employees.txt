@@ -1,0 +1,5 @@
+Empleado,Uno,11111111,45000.0
+Empleado,Dos,22222222,23000.0
+Empleado,Tres,33333333,65000.0
+Empleado,Cuatro,44444444,98000.0
+Empleado,Cinco,55555555,12000.0
