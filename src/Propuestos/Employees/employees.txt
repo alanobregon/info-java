@@ -1,0 +1,11 @@
+Clemente,Delgado,11-08-1989,80111
+Raul,Calvo,12-01-1991,57488
+Edgardo,Viteri,26-02-1984,73491
+Consuelo,Santiago,08-10-1992,161544
+Raul,Balbo,12-01-1992,57488
+Candido,Gonzales,29-09-1979,54420
+Julia,Ibarra,23-02-1983,39535
+Prospero,Magro,19-03-1973,91159
+Eloisa,López,03-09-1970,166031
+Leocadia,Santana,12-05-1976,126564
+Ovidio,Aritza,10-05-1986,115058
